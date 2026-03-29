@@ -3,7 +3,7 @@
 
 # Hi, I'm Carson 👋
 
-🎓 Computer Engineering Student  
+🎓 Computer Science Student graduating at the end of July 2026
 💻 Interested in Embedded Systems, Game Dev, and love learning the quarks of tech 
 🚀 Currently working on: A physical self playing chess board as part of a 4 person team.
 
